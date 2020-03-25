@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Global TI, front-end
 
-Template Name: NewBiz
-Template URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+
